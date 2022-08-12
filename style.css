@@ -1,0 +1,26 @@
+header {
+    background: #F4A460;
+}
+
+.logo {
+	padding-left: 50px;
+  
+
+}
+
+#logo {
+    width: 60px;
+}
+
+nav{
+    position: absolute;
+    top: 30px;
+    left: 130px;
+}
+
+nav li {
+    display: inline;
+    text-transform: uppercase;
+    font-size: 30px;
+    font-weight: bold;
+}
